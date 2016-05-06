@@ -1,0 +1,14 @@
+layout_spectrum: 0.89743
+typography_spectrum: 0.4119296
+color:
+  saturation: 0.5011963
+  lightness: 0.1926291
+  brandStrength: 0.1787982
+  rhythmicContrast: 0.8363705
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: "Hinshaw's Photography"
